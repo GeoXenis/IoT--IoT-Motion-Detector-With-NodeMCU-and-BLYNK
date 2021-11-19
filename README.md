@@ -2,7 +2,7 @@
 
 ## About: 
 
-### In this group Project ,which is  developed for the Internet of Things (IoT), we will investigate a very simple tutorial to show how ease is to implement an IoT project with NodeMCU and Blynk.  Any time that we a movement is detected by the sensor, a message provide by Blynk is send to a smartphone. The purpose of this project is to be permanently  expandable while utilizing cheap and reliable material for our project.
+### In this group Project ,which is  developed for the Internet of Things (IoT), we will investigate on showing how ease is to implement an IoT project with NodeMCU and Blynk.  Any time that we a movement is detected by the sensor, a message provide by Blynk is send to a smartphone. The purpose of this project is to be permanently  expandable while utilizing cheap and reliable material for our project.
 
 ## Hardware:
 
