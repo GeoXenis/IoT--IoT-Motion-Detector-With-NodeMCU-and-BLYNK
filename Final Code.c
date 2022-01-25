@@ -1,10 +1,4 @@
-/**************************************************************
- * IoT Motion Detector with Blynk
- * Blynk library is licensed under MIT license
- * This example code is in public domain.
- * 
- * Developed by Marcelo Rovai - 30 November 2016
- **************************************************************/
+
 #include <ESP8266WiFi.h>
 
 #define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
